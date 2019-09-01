@@ -12,4 +12,7 @@ int main(){
 
 }
 //new line added to check git diff
+void foo(){
+    cout<<"Hello I'm function foo";
+}
 

@@ -15,4 +15,6 @@ int main(){
 void foo(){
     cout<<"Hello I'm function foo";
 }
-
+void bar(){
+    cout<<"I'm the bar method";
+}

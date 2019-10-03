@@ -18,3 +18,6 @@ void foo(){
 void bar(){
     cout<<"I'm the bar method";
 }
+void print(){
+    cout<<"This is branch1";
+}

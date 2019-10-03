@@ -10,6 +10,8 @@ int main(){
 
     cout<<a;
 
+    return 0;
+
 }
 //new line added to check git diff
 void foo(){
@@ -19,5 +21,5 @@ void bar(){
     cout<<"I'm the bar method";
 }
 void print(){
-    cout<<"This is branch1";
+    cout<<"This is branch2";
 }

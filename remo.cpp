@@ -20,4 +20,6 @@ void bar(){
 }
 void print(){
     cout<<"This is branch1";
+    cout<<"New line in branch1";
+
 }

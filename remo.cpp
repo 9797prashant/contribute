@@ -5,9 +5,12 @@ using namespace std;
 
 int main(){
     cout<<"Some random text"<<endl;
-    cout<<"Testing the functionalities of github";
+    cout<<"Testing the functionalities and performance of github";
+    cout<<"I love you Github";
     int a = 10;
+    int b = 20;
 
+    cout<<b;
     cout<<a;
 
     return 0;

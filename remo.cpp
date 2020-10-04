@@ -14,12 +14,4 @@ int main(){
 
 }
 //new line added to check git diff
-void foo(){
-    cout<<"Hello I'm function foo";
-}
-void bar(){
-    cout<<"I'm the bar method";
-}
-void print(){
-    cout<<"This is branch5";
-}
+//Removed earlier functions.
